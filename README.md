@@ -61,5 +61,9 @@ An API route that allow user to return a book
 
 ### Screenshots
 
+No books found in the library
+![User page](https://user-images.githubusercontent.com/10976047/87732295-df30e200-c7cc-11ea-96fc-5253e3b20c44.png)
+![Admin page](https://user-images.githubusercontent.com/10976047/87732297-e0620f00-c7cc-11ea-9d2e-1a457ad0f9bb.png)
+
 Admin adding all books
 ![Admin page](https://user-images.githubusercontent.com/10976047/87731989-0aff9800-c7cc-11ea-9c02-e9994db55bd5.png)
