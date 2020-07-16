@@ -62,4 +62,4 @@ An API route that allow user to return a book
 ### Screenshots
 
 Admin adding all books
-![https://user-images.githubusercontent.com/10976047/87731989-0aff9800-c7cc-11ea-9c02-e9994db55bd5.png]
+![Admin page](https://user-images.githubusercontent.com/10976047/87731989-0aff9800-c7cc-11ea-9c02-e9994db55bd5.png)
