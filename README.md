@@ -41,8 +41,6 @@ The whole project has been divided into 2 modules
 * Return Book 
 
 ## API Routes
-
-## API Routes
 > POST : ```/api/login```
 API routes for users and admin to login to the application
 
@@ -61,3 +59,7 @@ An API route that allow users to get all the books that the user has borrowed bu
 > POST : ```/api/books/returnBook (email, book_id, quantity)```
 An API route that allow user to return a book
 
+### Screenshots
+
+Admin adding all books
+![(https://user-images.githubusercontent.com/10976047/87731989-0aff9800-c7cc-11ea-9c02-e9994db55bd5.png]
