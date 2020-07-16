@@ -52,12 +52,12 @@ An API route that allow admins to add new book:
 > GET : ```/api/books/getAllBooks```
 An API route that allow users and admins to get all books in the library
 
-> POST : /api/books/borrowBook (email, book_id, quantity)
+> POST : ```/api/books/borrowBook (email, book_id, quantity)```
 An API route that allow users to borrow a book in the library
 
 > GET : ```/api/books/getAllUserBooks?email=email_id```
 An API route that allow users to get all the books that the user has borrowed but has not returned
 
-> POST : /api/books/returnBook (email, book_id, quantity)
+> POST : ```/api/books/returnBook (email, book_id, quantity)```
 An API route that allow user to return a book
 
