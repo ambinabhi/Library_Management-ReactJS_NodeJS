@@ -100,4 +100,7 @@ User borrowed books are obtained using joining the ```books``` table with ```bor
 ![return_book_1](https://user-images.githubusercontent.com/10976047/87732920-79455a00-c7ce-11ea-97e4-1efb136e3a4f.png)
 ![return_book_2](https://user-images.githubusercontent.com/10976047/87732921-79ddf080-c7ce-11ea-9ab1-e03618293022.png)
 
+After all the books are returned the ```books``` table returns back to its initial state and ```borrowedbook``` table is ideally cleared
+![sql_after_retun_all](https://user-images.githubusercontent.com/10976047/87733142-2fa93f00-c7cf-11ea-89ec-5d43b0f4e4dd.PNG)
+
 
